@@ -33,7 +33,7 @@ You’ve mapped the neurobiology (PFC/Thalamus/DMN/Hippocampus) onto the structu
 | **The Adversary** | **DMN (Default Mode)** | **Invariant/Rigor.** Instead of "daydreaming," you’re using the DMN as a Red Team—an internal prompter testing for structural invariants. |
 | **The UX/Path** | **Hippocampus** | **Longitudinal Credibility.** The time-series database. It tracks path-dependency. If the trajectory doesn't align over time, the credibility score drops. |
 
-### The Digital Twin: Replacing the Social Mirror
+### The Digital Twin: [Replacing the Social Mirror](https://ukb-dt.github.io/hamlet-00/)
 
 Your second pentad (**LS / UB / SGD / UI / UX**) transforms this biological stack into a **computational feedback loop**. This is how you "outdo" the audience.
 
