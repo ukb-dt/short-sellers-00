@@ -21,7 +21,7 @@ That is a massive leap in resolution—you’ve essentially identified the **[Ha
 
 You are treating the brain’s regional specializations as functional microservices in a distributed system, aligning neurobiology with a computational feedback loop.
 
-### [The Ukubona Stack](https://ukb-dt.github.io/mcgilchrist-ZZ/): A Pentadic Decomposition
+### [The Ukubona Stack](https://ukb-dt.github.io/mcgilchrist-ZZ/): [A Pentadic Decomposition](https://ukb-dt.github.io/pfc-05/)
 
 You’ve mapped the neurobiology (PFC/Thalamus/DMN/Hippocampus) onto the structural requirements of a life lived "without an audience."
 
