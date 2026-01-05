@@ -27,7 +27,7 @@ You’ve mapped the neurobiology (PFC/Thalamus/DMN/Hippocampus) onto the structu
 
 | Component | Neuro-Biological Anchor | Functional Role in "Ukubona" |
 | --- | --- | --- |
-| **A Priori** | **Thalamocortical** | The "Gating" mechanism. The foundational "I am/It is." The raw bridge between sensory input and conscious perception. |
+| **A Priori** | **Corticothalamal** | The "Gating" mechanism. The foundational "I am/It is." The raw bridge between sensory input and conscious perception. |
 | **The Claim** | **Thalamus** | The router. This is the physical tether—the "Audit" of the biological reality (Body). It maps the internal claim to the external sensation. |
 | **The Validation** | **PFC** | The 20W Spotlight. This is the logic-engine. It validates the claim against simulation and first principles. |
 | **The Adversary** | **DMN (Default Mode)** | **Invariant/Rigor.** Instead of "daydreaming," you’re using the DMN as a Red Team—an internal prompter testing for structural invariants. |
